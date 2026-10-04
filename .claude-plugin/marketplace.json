@@ -1,0 +1,19 @@
+{
+  "name": "ikarus",
+  "description": "Personal Claude Code plugins by nguyen.duy.vu",
+  "owner": {
+    "name": "nguyen.duy.vu"
+  },
+  "plugins": [
+    {
+      "name": "footprint",
+      "source": { "source": "github", "repo": "aqaurius6666/claude-footprint" },
+      "description": "Live map of the aws and kubectl commands and MCP tool calls Claude runs: which account, region, cluster and namespace were touched, and whether each action read, wrote, destroyed or exposed credentials."
+    },
+    {
+      "name": "2brain",
+      "source": { "source": "github", "repo": "aqaurius6666/2brain" },
+      "description": "Self-improving persistent memory for Claude Code: deterministic recall hook, session takeaway capture, and an autonomous wiki-maintenance pipeline."
+    }
+  ]
+}
