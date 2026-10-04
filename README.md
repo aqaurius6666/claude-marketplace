@@ -17,7 +17,7 @@ Each plugin repo also keeps its own single-plugin marketplace; this repo is the 
 
 ```bash
 claude plugin marketplace add aqaurius6666/claude-marketplace
-claude plugin install footprint@ikarus
+claude plugin install footprint@aqaurius6666
 ```
 
 ## Add a plugin
