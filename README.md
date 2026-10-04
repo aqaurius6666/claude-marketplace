@@ -6,10 +6,14 @@ Claude Code plugin marketplace. Each plugin lives in its own repo; this repo onl
 | :- | :- |
 | `footprint` | [aqaurius6666/claude-footprint](https://github.com/aqaurius6666/claude-footprint) |
 | `2brain` | [aqaurius6666/2brain](https://github.com/aqaurius6666/2brain) |
+| `env-badge` | [aqaurius6666/claude-env-badge](https://github.com/aqaurius6666/claude-env-badge) |
+| `blast-radius` | [aqaurius6666/claude-blast-radius](https://github.com/aqaurius6666/claude-blast-radius) |
+
+Each plugin repo also keeps its own single-plugin marketplace; this repo is the aggregate.
 
 ## Install
 
-Plugin repos are private: your git must have read access to each one.
+`footprint` and `2brain` are private repos: your git must have read access to them.
 
 ```bash
 claude plugin marketplace add aqaurius6666/claude-marketplace
