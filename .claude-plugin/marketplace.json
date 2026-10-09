@@ -24,6 +24,11 @@
       "name": "blast-radius",
       "source": { "source": "github", "repo": "aqaurius6666/claude-blast-radius" },
       "description": "When a Bash command asks for permission, preview its blast radius: rm targets measured plus your own regex -> dry-run rules."
+    },
+    {
+      "name": "slash-alias",
+      "source": { "source": "github", "repo": "aqaurius6666/claude-slash-alias" },
+      "description": "Expand short slash aliases to the original command in the prompt box with Tab."
     }
   ]
 }

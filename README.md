@@ -8,6 +8,7 @@ Claude Code plugin marketplace. Each plugin lives in its own repo; this repo onl
 | `2brain` | [aqaurius6666/2brain](https://github.com/aqaurius6666/2brain) |
 | `env-badge` | [aqaurius6666/claude-env-badge](https://github.com/aqaurius6666/claude-env-badge) |
 | `blast-radius` | [aqaurius6666/claude-blast-radius](https://github.com/aqaurius6666/claude-blast-radius) |
+| `slash-alias` | [aqaurius6666/claude-slash-alias](https://github.com/aqaurius6666/claude-slash-alias) |
 
 Each plugin repo also keeps its own single-plugin marketplace; this repo is the aggregate.
 
