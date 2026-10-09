@@ -1,28 +1,28 @@
 {
-  "name": "aqaurius6666",
-  "description": "Personal Claude Code plugins by aqaurius6666",
+  "name": "safeinfra",
+  "description": "Claude Code plugins by safeinfra",
   "owner": {
-    "name": "aqaurius6666"
+    "name": "safeinfra"
   },
   "plugins": [
     {
       "name": "footprint",
-      "source": { "source": "github", "repo": "aqaurius6666/claude-footprint" },
+      "source": { "source": "github", "repo": "safeinfra/claude-footprint" },
       "description": "Live map of the aws and kubectl commands and MCP tool calls Claude runs: which account, region, cluster and namespace were touched, and whether each action read, wrote, destroyed or exposed credentials."
     },
     {
       "name": "2brain",
-      "source": { "source": "github", "repo": "aqaurius6666/2brain" },
+      "source": { "source": "github", "repo": "safeinfra/2brain" },
       "description": "Self-improving persistent memory for Claude Code: deterministic recall hook, session takeaway capture, and an autonomous wiki-maintenance pipeline."
     },
     {
       "name": "env-badge",
-      "source": { "source": "github", "repo": "aqaurius6666/claude-env-badge" },
+      "source": { "source": "github", "repo": "safeinfra/claude-env-badge" },
       "description": "A badge under each Bash tool row naming the environment the command targets (AWS profile, kube context, ...)."
     },
     {
       "name": "blast-radius",
-      "source": { "source": "github", "repo": "aqaurius6666/claude-blast-radius" },
+      "source": { "source": "github", "repo": "safeinfra/claude-blast-radius" },
       "description": "When a Bash command asks for permission, preview its blast radius: rm targets measured plus your own regex -> dry-run rules."
     }
   ]

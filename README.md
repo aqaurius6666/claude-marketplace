@@ -4,10 +4,10 @@ Claude Code plugin marketplace. Each plugin lives in its own repo; this repo onl
 
 | Plugin | Repo |
 | :- | :- |
-| `footprint` | [aqaurius6666/claude-footprint](https://github.com/aqaurius6666/claude-footprint) |
-| `2brain` | [aqaurius6666/2brain](https://github.com/aqaurius6666/2brain) |
-| `env-badge` | [aqaurius6666/claude-env-badge](https://github.com/aqaurius6666/claude-env-badge) |
-| `blast-radius` | [aqaurius6666/claude-blast-radius](https://github.com/aqaurius6666/claude-blast-radius) |
+| `footprint` | [safeinfra/claude-footprint](https://github.com/safeinfra/claude-footprint) |
+| `2brain` | [safeinfra/2brain](https://github.com/safeinfra/2brain) |
+| `env-badge` | [safeinfra/claude-env-badge](https://github.com/safeinfra/claude-env-badge) |
+| `blast-radius` | [safeinfra/claude-blast-radius](https://github.com/safeinfra/claude-blast-radius) |
 
 Each plugin repo also keeps its own single-plugin marketplace; this repo is the aggregate.
 
@@ -16,8 +16,8 @@ Each plugin repo also keeps its own single-plugin marketplace; this repo is the 
 `footprint` and `2brain` are private repos: your git must have read access to them.
 
 ```bash
-claude plugin marketplace add aqaurius6666/claude-marketplace
-claude plugin install footprint@aqaurius6666
+claude plugin marketplace add safeinfra/claude-marketplace
+claude plugin install footprint@safeinfra
 ```
 
 ## Add a plugin
