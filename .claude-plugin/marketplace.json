@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "footprint",
-      "source": { "source": "github", "repo": "aqaurius6666/claude-footprint" },
+      "source": { "source": "github", "repo": "safeinfra/claude-footprint" },
       "description": "Live map of the aws and kubectl commands and MCP tool calls Claude runs: which account, region, cluster and namespace were touched, and whether each action read, wrote, destroyed or exposed credentials."
     },
     {

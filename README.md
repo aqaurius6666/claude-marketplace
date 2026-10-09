@@ -4,7 +4,7 @@ Claude Code plugin marketplace. Each plugin lives in its own repo; this repo onl
 
 | Plugin | Repo |
 | :- | :- |
-| `footprint` | [aqaurius6666/claude-footprint](https://github.com/aqaurius6666/claude-footprint) |
+| `footprint` | [safeinfra/claude-footprint](https://github.com/safeinfra/claude-footprint) |
 | `2brain` | [aqaurius6666/2brain](https://github.com/aqaurius6666/2brain) |
 | `env-badge` | [aqaurius6666/claude-env-badge](https://github.com/aqaurius6666/claude-env-badge) |
 | `blast-radius` | [aqaurius6666/claude-blast-radius](https://github.com/aqaurius6666/claude-blast-radius) |
